@@ -66,3 +66,4 @@ print(json.dumps({'Summ all metods': {'GET': method_get, 'POST': method_post, 'P
                                       'DELETE': method_delete, 'HEAD': method_head},
                   "top 3 ip": {1: top_ip[0][0], 2: top_ip[1][0], 3: top_ip[2][0]}, 'top 3 so long requests': {
         temple[0]: req_1, temple[1]: req_2, temple[2]: req_3}}, indent=4))
+#проверка изменения
